@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "異世界混合大舞踏会",
+  "base_artist": "星野 源",
+  "createdAt": "2026-02-17T13:51:49.668543Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "異世界混合大舞踏会",
+      "artist": "星野源 feat. おばけ",
+      "has_synced": true,
+      "path": "select/01_異世界混合大舞踏会_星野源_feat._おばけ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "異世界混合大舞踏会",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_異世界混合大舞踏会_星野源.txt"
+    }
+  ]
+}
